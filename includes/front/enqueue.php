@@ -10,7 +10,7 @@ function u_enqueue(){
   
   wp_register_style(
     'u_bootstrap_icons',
-    get_theme_file_uri('assets/bootstrap-icons/bootstrap-icons.css')
+    get_theme_file_uri('assets/css/bootstrap-icons/bootstrap-icons.css')
   );
   wp_register_style(
     'u_theme',
